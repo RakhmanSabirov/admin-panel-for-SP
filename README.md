@@ -14,6 +14,11 @@ Users List
 
 ![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/4fd1e6bf-f072-40dd-9000-436668f55d79)
 
+Categories List
+
+![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/addf6a38-2a8d-40e0-bb4a-96a367f9a48f)
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
