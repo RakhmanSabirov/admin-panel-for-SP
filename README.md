@@ -18,6 +18,11 @@ Categories List
 
 ![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/addf6a38-2a8d-40e0-bb4a-96a367f9a48f)
 
+Products List
+
+![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/6fa5975d-bafe-4d39-8bec-ce8ef8c69bdc)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
