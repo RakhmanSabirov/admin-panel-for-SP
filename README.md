@@ -6,6 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+Admin Panel divided separate by main functions
+
+![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/7ce29734-4666-4817-b791-55aa2e4ac371)
+
+Users List
+
 ![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/4fd1e6bf-f072-40dd-9000-436668f55d79)
 
 A few resources to get you started if this is your first Flutter project:
