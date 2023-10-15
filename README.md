@@ -30,6 +30,11 @@ Canceled Orders List
 
 ![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/f0beb161-3e58-4717-b459-2e2eb3e79f07)
 
+Completed Order List
+
+![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/976bcfa0-ead0-458f-9e09-9cb922de657f)
+
+
 
 
 
