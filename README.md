@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![Screenshot] https://github.com/RakhmanSabirov/admin-panel-for-SP/blob/main/photo1697368269%20(1).jpeg
+![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/4fd1e6bf-f072-40dd-9000-436668f55d79)
 
 A few resources to get you started if this is your first Flutter project:
 
