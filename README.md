@@ -26,6 +26,11 @@ Delivery List
 
 ![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/72cb6249-c3f5-4929-9ca6-d6b7eef410b8)
 
+Canceled Orders List
+
+![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/f0beb161-3e58-4717-b459-2e2eb3e79f07)
+
+
 
 
 
