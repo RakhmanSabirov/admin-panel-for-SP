@@ -22,6 +22,11 @@ Products List
 
 ![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/6fa5975d-bafe-4d39-8bec-ce8ef8c69bdc)
 
+Delivery List
+
+![image](https://github.com/RakhmanSabirov/admin-panel-for-SP/assets/140696861/72cb6249-c3f5-4929-9ca6-d6b7eef410b8)
+
+
 
 
 A few resources to get you started if this is your first Flutter project:
